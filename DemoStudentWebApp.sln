@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DWA.StudentWebApp", "DWA.StudentWebApp\DWA.StudentWebApp.csproj", "{6376E209-757B-42C1-AEDC-38DE3C6A076C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DWA2", "DWA2\DWA2.csproj", "{B0F7716B-71A6-4D3E-8191-56F665B5C4FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6376E209-757B-42C1-AEDC-38DE3C6A076C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6376E209-757B-42C1-AEDC-38DE3C6A076C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6376E209-757B-42C1-AEDC-38DE3C6A076C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F7716B-71A6-4D3E-8191-56F665B5C4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F7716B-71A6-4D3E-8191-56F665B5C4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F7716B-71A6-4D3E-8191-56F665B5C4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F7716B-71A6-4D3E-8191-56F665B5C4FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
